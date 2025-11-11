@@ -11,8 +11,8 @@ const menuItems = [
   { href: "/medico/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { href: "/medico/citas", label: "Mis Citas", icon: Calendar },
   { href: "/medico/disponibilidad", label: "Disponibilidad", icon: Clock },
-  { href: "/medico/pacientes", label: "Pacientes", icon: Users },
-  { href: "/medico/configuracion", label: "Configuración", icon: Settings },
+  { href: "/medico/paciente", label: "Pacientes", icon: Users },
+ // { href: "/medico/configuracion", label: "Configuración", icon: Settings },
 ]
 
 export function MedicoSidebar() {

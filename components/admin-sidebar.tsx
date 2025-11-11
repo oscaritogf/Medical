@@ -25,7 +25,7 @@ const menuItems = [
   { href: "/admin/pacientes", label: "Pacientes", icon: Users },
   { href: "/admin/consultorios", label: "Consultorios", icon: Building2 },
   { href: "/admin/especialidades", label: "Especialidades", icon: ClipboardList },
-  { href: "/admin/configuracion", label: "Configuración", icon: Settings },
+  //{ href: "/admin/configuracion", label: "Configuración", icon: Settings },
 ]
 
 export function AdminSidebar() {
